@@ -1,0 +1,125 @@
+
+.link-container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.link{
+    padding: 14px 10px;
+    text-decoration: none;
+    color: black;
+    font-size: 1.5rem;
+    font-family: 'Montserrat';
+    box-sizing: border-box;
+    border-bottom: 3px solid transparent;
+}
+
+.link:hover{
+    background-color: white;
+    color: black;
+    border-bottom: 3px solid black;
+
+}
+
+.image1-parent{
+    width: 100%;
+    height: 60vh;
+    margin: 0;
+    position: relative;
+}
+
+.justDoIt{
+    width: 100%;
+    height: 60vh;
+}
+
+.text-image{
+    position: absolute;
+    top: 0;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.7);
+    width: fit-content;
+    margin: 30px 0 0 10px;
+    font-size: 3rem;
+    font-family: 'Montserrat';
+    font-weight: bold;
+}
+
+.p1-image{
+    position: absolute;
+    top: 90px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.7);
+    width: fit-content;
+    margin: 10px;
+    font-size: 0.9rem;
+    font-family: 'Montserrat';
+
+}
+
+.p2-image{
+    position: absolute;
+    top: 110px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.7);
+    width: fit-content;
+    margin: 10px;
+    font-size: 0.9rem;
+    font-family: 'Montserrat';
+}
+
+.image2-parent{
+    width: 100%;
+    height: 80vh;
+    position: relative;
+}
+
+.basketShoes{
+    width: 100%;
+    height: 80vh;
+    position: absolute;
+}
+
+.p1-image2{
+    position: absolute;
+    top: 20px;
+    right: 0;
+    left: 0;
+    text-align: center;
+    color: white;
+    width: fit-content;
+    margin: 0 auto;
+    font-size: 3rem;
+    font-family: 'Montserrat';
+    font-weight: bold;
+}
+
+.p2-image2{
+    position: absolute;
+    bottom: 30px;
+    right: 0;
+    left: 0;
+    text-align: center;
+    color: white;
+    width: fit-content;
+    margin: 0 auto;
+    font-size: 1rem;
+    font-family: 'Montserrat';
+    font-weight: bold;
+}
+
+.a-image2{
+    position: absolute;
+    bottom: 10px;
+    right: 0;
+    left: 0;
+    text-align: center;
+    color: white;
+    width: fit-content;
+    margin: 0 auto;
+    font-size: 1rem;
+    font-family: 'Montserrat';
+    font-weight: bold;
+    text-decoration: underline;
+}
