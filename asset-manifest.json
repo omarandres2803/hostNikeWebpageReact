@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/hostNikeWebpageReact/static/css/main.d62e4dc1.chunk.css",
+    "main.js": "/hostNikeWebpageReact/static/js/main.60657ed4.chunk.js",
+    "main.js.map": "/hostNikeWebpageReact/static/js/main.60657ed4.chunk.js.map",
+    "runtime~main.js": "/hostNikeWebpageReact/static/js/runtime~main.eee8429b.js",
+    "runtime~main.js.map": "/hostNikeWebpageReact/static/js/runtime~main.eee8429b.js.map",
+    "static/js/2.3b19acd0.chunk.js": "/hostNikeWebpageReact/static/js/2.3b19acd0.chunk.js",
+    "static/js/2.3b19acd0.chunk.js.map": "/hostNikeWebpageReact/static/js/2.3b19acd0.chunk.js.map",
+    "index.html": "/hostNikeWebpageReact/index.html",
+    "precache-manifest.e06b0278731f00d4636b6b1af4fd2e5e.js": "/hostNikeWebpageReact/precache-manifest.e06b0278731f00d4636b6b1af4fd2e5e.js",
+    "service-worker.js": "/hostNikeWebpageReact/service-worker.js",
+    "static/css/main.d62e4dc1.chunk.css.map": "/hostNikeWebpageReact/static/css/main.d62e4dc1.chunk.css.map",
+    "static/media/styles.css": "/hostNikeWebpageReact/static/media/whiteBoots.0fb67354.webp",
+    "static/media/cardio.jpg": "/hostNikeWebpageReact/static/media/cardio.08579e88.jpg",
+    "static/media/gym.jpg": "/hostNikeWebpageReact/static/media/gym.46252735.jpg",
+    "static/media/highIntensity.jpg": "/hostNikeWebpageReact/static/media/highIntensity.ee3749dc.jpg",
+    "static/media/hombres.jpg": "/hostNikeWebpageReact/static/media/hombres.4498fb72.jpg",
+    "static/media/justDoIt.jpg": "/hostNikeWebpageReact/static/media/justDoIt.bd2d5117.jpg",
+    "static/media/nikenba.jpg": "/hostNikeWebpageReact/static/media/nikenba.c31e5167.jpg",
+    "static/media/studioClass.jpg": "/hostNikeWebpageReact/static/media/studioClass.635fcc33.jpg",
+    "static/media/womenTraining.jpg": "/hostNikeWebpageReact/static/media/womenTraining.86ff1ed9.jpg"
+  }
+}
